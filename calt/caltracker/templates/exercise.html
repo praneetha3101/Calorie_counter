@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Exercise Suggestions</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body class="exercise-page">
+    <h1>Exercise Suggestions</h1>
+    <p>Your BMR: {{ bmr }}</p>
+    <p>Based on your activity level ({{ activity_level }}), here are some exercise suggestions:</p>
+    <ul>
+        {% for suggestion in suggestions %}
+            <li>{{ suggestion }}</li>
+        {% endfor %}
+    </ul>
+    <form action="{{ url_for('food') }}" method="POST">
+        <input type="hidden" name="bmr" value="{{ bmr }}">
+        <input type="hidden" name="activity_level" value="{{ activity_level }}">
+        <button type="submit">Next</button>
+    </form>
+</body>
+</html>

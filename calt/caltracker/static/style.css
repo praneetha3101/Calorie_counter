@@ -1,0 +1,124 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+.index-page {
+    background-image: url('/static/images/bgd.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.exercise-page {
+    background-image: url('/static/images/bgex.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.login-page {
+    background-image: url('/static/images/bglog.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.result-page {
+    background-image: url('/static/images/bgres.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+    margin-top: 50px;
+    background-color: rgba(0, 0, 0, 0.5); /* Adding a background color with transparency */
+    padding: 10px; /* Adding some padding */
+    border-radius: 5px; /* Rounding the corners */
+}
+
+form {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input, select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.food-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.food-item {
+    width: 30%;
+    margin: 10px 0;
+}
+
+.image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.image-gallery img {
+    width: 45%;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.register-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.register-form {
+    width: 60%;
+}
+
+.result-content {
+    text-align: right;
+    margin: 50px 20px 20px auto;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+}

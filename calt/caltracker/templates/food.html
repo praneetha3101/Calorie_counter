@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Food Intake</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <script>
+        function validateFoodSelection() {
+            let checkboxes = document.querySelectorAll('input[name="food"]:checked');
+            if (checkboxes.length > 20) {
+                alert("You can only select up to 20 food items.");
+                return false;
+            }
+            return true;
+        }
+    </script>
+</head>
+<body>
+    <h1>Select Food Items</h1>
+    <form action="{{ url_for('result') }}" method="POST" onsubmit="return validateFoodSelection()">
+        <input type="hidden" name="bmr" value="{{ bmr }}">
+        <div class="food-container">
+            {% for item in food_items %}
+                <div class="food-item">
+                    <input type="checkbox" name="food" value="{{ item['foodname'] }}"> {{ item['foodname'] }}
+                </div>
+            {% endfor %}
+        </div>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>

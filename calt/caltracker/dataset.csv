@@ -1,0 +1,261 @@
+foodname,calories,fat ,salt,carbohydrate,sugar,protein
+idly,58,0.4,0.075,12,0.1,1.6
+wheat puttu podi,370,13,0.05,76,1,12
+white sauce pasta,1186,73,0.088,106,3.9,28
+paneer capsicum,366,27,0.0141,15,6.7,15
+rava kichadi,278,10,0.0106,42,0,5
+moong dal salad,236,2,0.0465,41,5.8,16
+kanda batata poha,158,0.2,0.004,35,0,2.9
+idiyappam,281,6.2,2.414,54,19,3
+tapioca pearls sago ,172,0,0.02,43,0,0
+ragi dosa,135,7.8,0.068,15,1,2
+goan coconut,80,6,0.26,5,3,1
+ragi roti,139,5.7,0.122,20,1.2,2.8
+cucumber salad,49,0.1,0.341,11,9.1,0.8
+chapathi,120,3.7,0.119,18,1.2,3.1
+pepper thatte ,160,9,0.28,18,0,2
+black rice ,205,0.4,0.0016,45,0.1,4.3
+upma,132,4,0.179,21,2.7,3.4
+wheat dosa,168,3.7,0.094,29,0.2,3.9
+adai  batter,60,1.5,0.21,11,1,3
+poha upma,219,6.9,0.11,35,2.3,4
+broccoli idli upma,403,33,1.046,20,13,10
+pasta con broccoli,1170,58,2.59,113,6,42
+pongal,319,8.1,0.0034,54,1,7.3
+moong dal ,236,2,0.465,41,5.8,16
+masala upma,250,7,0.96,40,1,7
+vegan  mayonnaise,68,6.7,0.05,2.2,0.9,0
+sago pudding,275,12,0.9,47,32,8
+0nion dosa,191,3.9,0.685,35,2.6,4.6
+poha plain,158,0.2,0.042,35,0,2.9
+oats ,153,2.6,0.024,27,0.4,5.3
+egg dosa,205,9.6,0.418,21,3.1,9
+butter dosa,239,12,0.018,29,0.2,4
+vegetable upma,334,9,0.936,57,3.2,6.4
+carrot dosa,292,14,1.889,36,2.9,4.6
+capsicum dip,66,6,0.038,2.2,0.8,1.7
+bread toast,64,0.9,0.118,12,1.4,2
+tomato dal,223,7.7,0.724,29,5.5,12
+white bread toast,64,0.9,0.118,12,1.4,2
+potato bread toast,85,1,0.12,15,3,4
+spaghetti noodles,210,0.9,0.0067,42,1.5,7.4
+uthappam batter savoury,220,0.5,0.22,46,0,6
+aloo naan,300,11,0.37,46,4.2,6.1
+bread cheese ,85,6.8,0.213,0.8,0.7,5.1
+rava dosa,180,3,0.77,33,0,4
+akki roti,93,2.6,0.098,16,0,1.2
+dal roti,116,2.4,0.103,21,0.6,4.6
+string hoppers,281,6.2,2.414,54,19,3
+bagel,227,1.4,0.443,55,8.9,11
+aloo paratha,300,11,0.37,46,4.2,6.1
+dal paratha,148,5.5,0.241,21,1.5,4.2
+palak paratha,160,6,0.361,23,0.6,4.1
+roti paratha,258,10,0.357,36,3.3,5
+vada,135,8.4,0.217,11,0.4,4.4
+vada pao,263,9.5,0.209,37,3.5,7.5
+pancake,91,3.9,0.176,11,0,2.6
+soya patty,124,4.4,0.398,10,0.8,11
+appam,94,2.4,0.068,17,1.6,1.5
+palak paneer,366,30,0.871,10,4.5,15
+shahi paneer,310,25,0.555,12,7.2,12
+karuveppilaichutney,16,1.2,0.002,0.8,0,0.4
+onion chutney,31,2.4,0.151,2.2,0.9,0.4
+mint chutney,15,1,0.49,2,1,0
+cury leves  chutnry,16,1.2,0.002,0.8,0,0.4
+palak panner,366,30,0.0871,10,4.5,15
+carrot chuttney,29,0.1,0.078,6.8,4.1,0.9
+capsicum chutney,66,6,0.0038,2.2,0.8,1.7
+cocunet chutney,36,3.3,0.0021,1,0.1,0.4
+chilli garlic chudney,4,0,0.003,0.6,0.1,0.2
+beetroot chudney,308,30.5,0.0245,6.7,0.1,1.9
+garlic chudney,14,0,0.0001,2.5,0.1,0.7
+green chudney,3,0,0.0008,0.5,0.1,0.2
+tomato onion chudney,31,2.2,0.0038,2.2,0.1,0.5
+ginger chudney,41,2.2,0.008,5.2,0.1,0.2
+tomato chudney,31,2.2,0.0038,2.1,0.1,0.6
+mint coriander chudney,8,0.1,0.0013,1.5,1.3,0.3
+peanut chudney,331,0.01,0.00032,16.24,0,1.82
+green mango chudney,210,0.3,0.0206,51,36.5,0.7
+corriander rice,342,10,0.078,57,5.5,6.8
+carrot rice,207,3.2,0.3,41,1,5
+veg pulao,281,4.4,1.014,54,1.9,5.4
+capsicum rice,342,11,0.787,57,3.1,6.2
+rasam rice,64,3.1,0.012,8.7,5,2.2
+kaju rice,205,0.4,0.0016,45,0.1,4.3
+curd rice,207,3.2,0.167,38,4.5,6.1
+tomato rice,126,3.9,0.092,20,1.9,2.3
+gongura rice,205,0.4,0.0016,45,0.1,4.3
+tamarind rice,344,13,0.277,51,4.5,7.4
+cocunut rice biriyani,321,15,0.073,43,1.6,4.3
+beetroot rice,100,0.3,0.074,23,19,2.8
+fried rice,238,4.1,0.53,45,0.8,5.5
+kollu podi sadam,15,0.2,0.148,2.8,0.4,1
+moong dal rice,240,2,0.465,41,5.8,16
+rasam rice,290,5.8,0.486,48,2.1,13
+sundakai rice,205,0.4,0.0016,45,0.1,4.3
+cucumber rice,50,0.8,0.428,9.8,7.3,2.4
+panner fried rice,238,4.1,0.53,45,0.8,5.5
+cocunet milk biriyani,445,48,0.029,6.4,,4.6
+groundnut rice,205,0.4,0.0016,45,0.1,4.3
+jackfruit biriyani,160,1.1,0.033,38,31,2.8
+mushroom biriyani,320,15,0.073,43,1.6,4.3
+mango rice,202,1.3,0.034,50,46,2.8
+palak pulao,473,12,1.215,82,5,10
+nelikai sadam,214,4.5,0.018,39,5.1,6.9
+lemon rice ,221,3,0.104,43,1.1,4.9
+jeera rice,204,4.7,0.399,36,0.5,6.22
+sambar rice,214,4.5,0.018,39,5.1,6.5
+dal rice,293,5.8,0.486,48,2.1,13
+fish biryani,296,10,0.413,31,3.3,19
+mutton biriyani,350,12,0.89,44,1,15
+chicken biriyani,292,9.4,0.419,31,3.2,20
+beef biriyani,311,17,0.389,19,3.1,20
+nasi briyani,321,15,0.0073,43,1.8,4.3
+garlic fried rice,279,8.8,0.294,45,0,3.8
+chicken fried rice,288,12,0.354,25,1,19
+beef fried rice,337,19,0.345,25,1,16
+egg fried rice,238,4.1,0.53,45,0.8,5.5
+basil fried rice,273,5.6,0.927,45,0.7,9.4
+cauliflower fried rice,95,5.03,0.374,7.6,2.4,5.7
+brown fried rice,350,18,0.49,40,5,7
+pineapple fried rice,5.5,0.55,30,4.3,4.3,3.3
+almond fried rice,217,9.6,0.0023,26,1.3,5.2
+chiken broccoli fried rice,376,4.6,2.95,53,0,30.4
+mushroom fried rice,282,6.5,2.3,50,0,8
+mango sticky rice,493,25,0.016,69,42,4.9
+cabbage rice,277,8.7,0.0054,45,1.8,6.2
+turmeric rice,156,9.9,0.008,15.5,0,1.6
+tawa pulao,90,3,0.179,13,0,2
+mysore pak,173,12,0.001,17,11,0.8
+double ka meetha,337,11,0.247,54,32,6.9
+jaggery ,11,0,0.0008,2.9,2.9,0
+laddu,211,11,0.0012,24,15,4.2
+sooji halwa ,318,13,0.052,46,30,4.9
+burfi,92,4.5,0.0018,12,9.4,1.5
+bread halwa,341,14,0.247,47,26,7.1
+gulab jamun,149,7.3,0.044,20,18,1.9
+hallibut,94,1.4,0.07,0,0,19
+rasmalai,220,7.7,0.092,33,32,6
+basan ladoo,211,11,0.012,24,15,4.2
+sausage balls,53,3.5,0.127,3,0.6,2.3
+motichoor ladoo,120,5,0.005,19,16,1
+sweet somas ,134,0.4,0.048,25,9.5,8.6
+adhirasam,488,23,0,67,0,3
+rava laddu,1318,23,0.395,23,1.11,3.78
+jangiri,103,29.3,0.013,18.6,4,5
+bread halwa,341,14,0.247,47,26,7.1
+rava laddu,211,11,0.012,24,15,4.2
+chocolate vanilla,140,8,0.14,19,16,1
+kesari,136,1,0.011,32,25,1
+palkova,104,1,0.066,19,7,4
+sweet pongal,824,3.6,0.052,37.7,17.7,4.13
+karupatti pongal,546,25,0.101,78,27,7
+wheat bun,160,25,0.31,27,6,8
+wheat halwa,558,3,0.008,72,50,4
+kayi ubattu,182,6.5,0,26.3,0,4.4
+payasam,131,5.3,0.042,17,13,4.2
+milk bun,196,3.9,0.0264,34,7.2,6.1
+chocolate milk,208,8.5,0.015,26,24,7.9
+mango ice cream,290,15,0.0106,35,32,4.8
+butter scotch ice cream,120,5,0.0065,19,14,1
+straberry ice cream,253,11,0.079,36,0,4.2
+blackcurrent icecream,113,3.4,2.215,19.6,19,1.2
+gajar halwa,275,13,0.103,35,30,5.6
+beetroot halwa,174,10.7,0.063,16.3,14.6,4.5
+rice kheer,263,11,0.083,35,25,8.3
+brown bread/ rasmlai,138,8.17,0.0027,15.3,12.32,2.33
+banana milk ,105,3,0,27,14,1.3
+samak rice kheer,115,2,0.062,19.5,0,4.5
+sweet poondi,751,36.8,0.04,94.5,0,11.4
+sago pudding,110,3.4,0.076,17,10.7,2.4
+jilebi,702,41.2,0.108,70.8,0,10.5
+makhane kheer,94,1.5,0.112,12,0,8.1
+ aval payasam,381,18,0.0071,46,42,6
+semiya payasam,110,2.6,0.0037,18,1.3,4.5
+ada pradhaman,453,20.1,0.0073,68.6,56.2,0
+thengai payasam,254,15,0.01,29,25,1
+dates kheer,222.3,10.5,0.019,27.4,13.9,4.5
+dates bar,77,1.61,0.077,15.6,10.2,0.81
+nenthra pazham payasam,586,40,0.02,56,51,3
+javarisi payasam,240,11,0,32,25,2
+amul pista malai kulfi,385,27.7,0,29,22.5,4.7
+mango kuli,150,13,0.03,10,9,1
+sago ,354,0.05,0.001,87.5,3.25,0.42
+sweet paniyaram,90,0.8,0,14,0,0.8
+kozhukattai,263,2,0.112,49,10,3
+mishti doi sweet yoghurt,179,6,0,27,22.5,4.3
+sandesh,707.8,37.68,0.114,60,0,31
+modak,153,4.08,0.0028,27.9,11,1.63
+mango shrikhand,130,3.5,0.0015,23,21,3
+kaju katli,92,4.5,0.00018,12,9.4,1.5
+shahi tukda,83,4.8,0.04,8.1,4.6,1.8
+firni,352,13,0.115,48,30,12
+kulfi,184,7.6,0.104,25,22,4.8
+puran poli,298,7.7,0,49,3.4,8.5
+besan ladoo,211,11,0.012,24,15,4.2
+mawa karanji,135,6.8,0.001,14,0,4.3
+rasgulla,120,1.8,0.026,25,25,1.7
+falooda kulfi icecream,157,12,0.044,16,8,4
+masala milk tea / chai,49.8,0.2,2.86,9.9,8.6,
+orange lassi,0,1.2,0,12.4,9.4,1.1
+almond apple milkshake,109,2.7,0.334,17.5,0,1.7
+black graph juice,64,0,2.3,16,0,0
+lemon soda,12,0,2.8,3.1,2.8,0
+cinnamon rose tea,0,0,0.02,0,0,0
+orange lemon soda,180,0,0.02,47,45,0
+venilla milkshake,322,13.4,28.5,33.9,0,8.2
+apple chocolate ice ,411,15,0.194,61,55,4
+dates milk shake,608,19,0.165,106,92,
+white chocolate coffee,359,13,207,47,23,13
+turmeric tea ,8,0,0,1,0,0
+rose milk lassi,210,3.5,0.1,40,36,7
+orange banana smoothie,206,2,150,42.1,0,7.2
+apple dates milkshakes,109,2.7,33.4,17.5,0,1.7
+sapodila milkshake ,129,4,90,17.3,0,6.3
+cookies and cream milkshake,420,11,390,68,65,14
+rose tea with milk,214,5,7,41,11,2
+anar rose juice,108,0,0,26,25,1
+shaejah shake,147,2,23,29,24,4
+cold coffee,0,0,2,0,0,0.1
+muskmelon milkshake,186,9.7,0,19.1,2.5,5.8
+pineapple juice,132,0.9,0,33,25,0.9
+watermelon juice,72,0.4,2.4,17.1,14.9,1.5
+lemon mint tea,4,0,0,0.5,0.5,0.5
+nannari sarbath,265.23,0.35,9.113,65.26,66,0.26
+panang kalkandu pal,18,0,0.1,4.6,4.6,0
+neer moru,80,0.5,0.44,0,0,19
+mosambi soda,132,0.25,32.32,1,0.85,1
+amla juice,58,0.1,0,13.7,0,0.5
+orange juice,45,0.2,1,10,8,0.7
+pomegranate juice,234,3.3,8.4,29,38.6,4.7
+cranberry juice,46,0.1,0,12.2,4,0.4
+apple juice,46,0.1,4,11,10,0.1
+muskmelon juice,80,0.19,0,18.5,0,0.8
+lemon juice,22,0.2,0.001,7,2.5,0.4
+sugercane  juice,269,0,58,73,73,0
+wheatgrass juice,10,0,0,2,2,2
+grapefruit juice,42,0.1,0,11,7,0
+mango plum,128,0.2,0.013,33,31,0.3
+cucumber juice,48,0.8,0.428,9.8,7.3,2.4
+kiwi smoothie,245,2.7,0.081,52,43,6.8
+strawberry banana smoothie,161,1.7,0.059,34,24,5.5
+orange smoothie,198,1.2,0.572,34.3,30,6.1
+blueburry smoothie,315,2.1,0.133,61,58,11
+apple carrot beet smoothie,144,0.6,0.124,35.7,23.8,2.3
+green smoothie,146,0.7,0,34.4,0,1.65
+cranberry smoothie,378,5.3,0.202,71,50,17
+mix fruit smoothie,144,3,0.326,29,14,2
+cashew date shake,132,4.2,0,21,0,2.5
+cold cocoa milkshake,170,6.9,0.196,18.1,0,4.9
+sitaphal milkshake,260,7.9,0.142,37.5,0,5.6
+melon smoothie,240,2,1.643,47.9,40.9,10.2
+apple smoothie,109,2.7,0.334,17.5,0,1.7
+thai smoothie,429,2.46,0.659,82,26,20
+jamun smoothie,16,0,31,3,0,1
+nuts milkshake,229,13,0.163,18.1,0,6.3
+vanilla milkshake,322,13.4,0.285,33.9,0,8.2
+caramel milkshake,560,17,0.48,91,87,15
+turmeric milk,255,13,0.383,15.8,0,8.6
+almond banana smoothie,151,6.9,0.545,18.2,0,4.4
+mango lassi,384,24.8,0.303,28.2,0,12.2
+rose lassi,100,2.5,0,15,12.5,2

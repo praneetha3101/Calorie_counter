@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Calorie Tracker</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <script>
+        function validateForm() {
+            let age = document.getElementById("age").value;
+            let weight = document.getElementById("weight").value;
+            if (age > 100) {
+                alert("Age cannot be more than 100.");
+                return false;
+            }
+            if (isNaN(weight)) {
+                alert("Weight must be a number.");
+                return false;
+            }
+            return true;
+        }
+    </script>
+</head>
+<body class="index-page">
+    <h1>Enter Your Details</h1>
+    <form action="{{ url_for('exercise') }}" method="POST" onsubmit="return validateForm()">
+        <label for="age">Age:</label>
+        <input type="number" id="age" name="age" required><br><br>
+        <label for="height">Height (cm):</label>
+        <input type="number" id="height" name="height" step="0.01" required><br><br>
+        <label for="weight">Weight (kg):</label>
+        <input type="number" id="weight" name="weight" step="0.01" required><br><br>
+        <label for="activity_level">Activity Level:</label>
+        <select id="activity_level" name="activity_level" required>
+            <option value="low">Low</option>
+            <option value="medium">Medium</option>
+            <option value="high">High</option>
+        </select><br><br>
+        <button type="submit">Next</button>
+    </form>
+</body>
+</html>
